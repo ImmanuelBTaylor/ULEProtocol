@@ -1,6 +1,6 @@
-# unyProtocol
+# ULEProtocol
 
-The unyProtocol is a decentralized protocol for social networking platforms, inspired by Bluesky's AT Protocol. It powers the Kodo ecosystem, including platforms like ibty, with support for `unytoken` (utility token) and `unycoin` (transaction currency).
+The ULEProtocol is a decentralized protocol for social networking platforms, inspired by Bluesky's AT Protocol. It powers the Kodo ecosystem, including platforms like ibty, with support for `unytoken` (utility token) and `unycoin` (transaction currency).
 
 ## Goals
 - **Decentralized Data**: Users control their data (posts, blogs, goals, etc.) via a standardized record system.
